@@ -1,5 +1,5 @@
 - 👋🏻 Hi, I’m Sejal
-- 💞 I’m currently learning Dsa and Web development 
+- I’m currently learning Dsa and Web development 
   
 
 <!---
